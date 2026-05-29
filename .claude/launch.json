@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "utilities-dashboard",
+      "runtimeExecutable": "py",
+      "runtimeArgs": ["-3", "-m", "http.server", "8080", "--directory", "C:\\Users\\loren\\Projeto_Dash"],
+      "port": 8080
+    }
+  ]
+}
